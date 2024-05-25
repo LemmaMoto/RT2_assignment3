@@ -1,1 +1,1 @@
-# RT2_assignment3
+# Assignment 3 of Research Track 2 course
